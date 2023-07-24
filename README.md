@@ -1,2 +1,3 @@
 "# myTestRepo" 
-hello world
+hello world 
+hello world locale
